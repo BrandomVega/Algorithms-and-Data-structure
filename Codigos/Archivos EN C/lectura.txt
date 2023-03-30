@@ -1,0 +1,4 @@
+Hola mundo, desde un archivo TXT.
+Segunda linea: 1, 2, 3, 4.
+Tercera linea: 1.1., 1.2, 1.3 x.x.
+Cuarta linea: $, #, &, /.
